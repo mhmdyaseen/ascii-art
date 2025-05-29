@@ -1,6 +1,6 @@
 # ASCII Art Converter
 
-This is a simple Python tool that lets you turn any image into ASCII art. It’s designed to give you the image in a clean PNG format with a transparent background. Whether you're just experimenting or want to add a creative touch to a project, this script makes it easy to generate stylized ASCII representations from regular images.
+This is a simple Python tool that lets you turn any image into ASCII art. It’s designed to give you the image in a clean PNG format with a transparent background. Whether you're just experimenting or want to add a creative touch to a project, this script makes it easy to generate stylized ASCII representations from regular images..
 
 ![ASCII Art Example](https://github.com/mhmdyaseen/ascii-art/blob/2d70bb3dbcfe96f3632081c3935a6aa642aa04b5/ascii_art_colored.png)
 
